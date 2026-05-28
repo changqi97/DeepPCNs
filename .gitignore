@@ -4,8 +4,6 @@ __pycache__/
 weights/
 *.json
 !README.md
-hps/*.yaml
-hps/*.yml
 .DS_Store
 *.egg-info/
 dist/
