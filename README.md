@@ -1,6 +1,6 @@
 # Predictive Coding Networks with Precision Scheduling
 
-This repository contains the official implementation for the paper *"Towards the Training of Deeper Predictive Coding Neural Networks"* submitted to NeurIPS 2026.
+This repository contains the official implementation of the ICML 2026 paper "Towards the Training of Deeper Predictive Coding Neural Networks".
 
 ## Requirements
 
