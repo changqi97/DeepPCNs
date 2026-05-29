@@ -1,4 +1,4 @@
-# Predictive Coding Networks with Precision Scheduling
+# DeepPCNs
 
 This repository contains the official implementation of the ICML 2026 paper "Towards the Training of Deeper Predictive Coding Neural Networks".
 
